@@ -36,13 +36,13 @@
 ### 5.1-2-4 채용상태별 채용공고 검색
 ![g](https://user-images.githubusercontent.com/76277232/110760576-34f15780-8292-11eb-9dd6-be9e211a644c.png)
 
-### 5.1-3 채용공고 등록
+### 5.1-3 연계기업 채용공고 등록
 ![h](https://user-images.githubusercontent.com/76277232/110760578-34f15780-8292-11eb-881e-ab1ae4ef1b29.png)
 
-### 5.1-4 채용공고 수정
+### 5.1-4 연계기업 채용공고 수정
 ![i](https://user-images.githubusercontent.com/76277232/110760580-3589ee00-8292-11eb-9d4c-378213bbf8be.png)
 
-### 5.1-5 채용공고 삭제
+### 5.1-5 연계기업 채용공고 삭제
 ![j](https://user-images.githubusercontent.com/76277232/110760585-36228480-8292-11eb-86da-06305a6376bd.png)
 
 ### 5.2 수료생 취업정보 관리메뉴
