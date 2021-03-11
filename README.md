@@ -1,7 +1,5 @@
 # SSAademy team project 
-### 조혜승 구현기능 
-### 관리자 - 연계기업 채용공고 관리 CURD, 수료생 취업정보 관리 CURD
-### 학생 - 연계기업 채용공고 조회, 수료생 취업정보 조회
+
 
 ![amain](https://user-images.githubusercontent.com/76277232/110760474-1ab77980-8292-11eb-90b5-3893d751b4ab.png)
 
@@ -16,6 +14,10 @@
 
 ## 4. 데이터구조(ERD)
 ![d](https://user-images.githubusercontent.com/76277232/110760620-3ae73880-8292-11eb-9bae-e2f65515f096.png)
+
+### 조혜승 담당 구현기능 
+#### 관리자 - 연계기업 채용공고 관리 CURD, 수료생 취업정보 관리 CURD
+#### 학생 - 연계기업 채용공고 조회, 수료생 취업정보 조회
 
 ## 5. 기능구현
 ### 5.1 연계기업 채용공고 관리메뉴
